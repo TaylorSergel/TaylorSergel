@@ -202,28 +202,7 @@
     >
   </div>
 
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorSergel&layout=compact&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=C4B5FD"
-    alt="Taylor's Top Languages"
-    style="max-width:80%;height:auto;margin:10px 0;"
-  >
-
-  <!-- Contribution Graph -->
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TaylorSergel&hide_border=true&bg_color=0d1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&area_color=7C3AED"
-    alt="Taylor's Contribution Graph"
-    style="max-width:80%;height:auto;margin:10px 0;"
-  >
-</div>
-
-<p align="center">
-  <!-- bottom wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=60&section=footer" alt="Waving footer capsule" style="max-width:80%;height:auto;">
-  <img src="pics/ConnectWMe.png" width="auto" height="auto" style="display:block;margin:0 auto;" alt="Connect With Me">
-</p>
-
-
+  
 <!-- CONTACT -->
 <div align="center">
   <img src="pics/4.png" alt="Contact" width="60%" style="border-radius:14px;" />
