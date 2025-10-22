@@ -10,7 +10,7 @@
 <hr/>
 
 <div align="center">
-  <img src="pics/1.png" alt="About Me" width="30%" style="border-radius:14px;" />
+  <img src="pics/1.png" alt="About Me" width="60%" style="border-radius:14px;" />
   <p>&nbsp;</p>
 </div>
 
