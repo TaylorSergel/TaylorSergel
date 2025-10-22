@@ -23,7 +23,7 @@
       I am a final year BSc Computer Science student with a passion for frontend development and design. I am eager to create systems that not only 
       enhance user interaction but overall user experience by utilizing the skills that I have learnt along my educational journey. <br><br>
       My personal interests include reading, hanging out with friends and going to the gym, allowing me to maintain a healthy work-life balance. <br><br>
-    <font color="royalblue"><h2>My Other Skills Include:</h2></font>
+    ### 🟦 My Other Skills Include:
       - Leadership<br>
       - Team work<br>
       - Time managemnet<br>
