@@ -14,13 +14,13 @@
 
 ---
 <div align="center">
-  <img src="pics/cartoon_typing" alt="Cartoon Me" width="30%" style="border-radius: 14px;"/>
+  <img src="pics/1.png" alt="About Me" width="30%" style="border-radius: 14px;"/>
   <p>&nbsp;</p>
 
     <table>
       <tr>
         <td align="center" width="250">
-          <img src="assets/me.png" alt="Diya Budhia" width="240" style="border-radius:12px;"/>
+          <img src="pics/cartoon_typing.gif" alt="Cartoon Me" width="240" style="border-radius:12px;"/>
         </td>
         <td align="left" style="vertical-align: top; padding-left: 20px; line-height: 1.6;">
           🎓 Final-year <b>BSc Computer Science</b> student at the <b>University of Pretoria</b><br>
