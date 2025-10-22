@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Frontend-Designer;UI/UX+Engineer" alt="Typing SVG" />
 </p>
 
+</br>
+
 <p align="center">
   <img src="pics/sep_lightsaber.svg" alt="" width="100%" />
 </p>
@@ -42,6 +44,8 @@
     Eagerness to learn</br>
   </ul>
 </div>
+
+</br>
 
 <p align="center">
   <img src="pics/sep_lightsaber.svg" alt="" width="100%" />
@@ -173,6 +177,8 @@
     </tr>
   </table>
 
+  </br>
+
   <p align="center">
   <img src="pics/sep_lightsaber.svg" alt="" width="100%" />
 </p>
@@ -187,6 +193,7 @@
 |---|---|---|
 | <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/eef7768f-1888-4c96-b0b8-8c75a2e1df86" /> | A web application that acts as a virtual closet and recommends outfits to a user based on the weather, personal preferences and occasion using clothing items stored in the user's virtual closet. </br></br> <b>Other Features Include:</b></br>- Emergency Response Outfit Recommendations </br>- Trip/Event Planner </br>- Virtual Try-On Feature </br>- Social Media Platform </br>- An Outfit Inpiration Page </br>| <a href="https://github.com/COS301-SE-2025/Weather-to-Wear"><img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED&v=1" width="180" /></a> |
 
+</br>
 
 <p align="center">
   <img src="pics/sep_lightsaber.svg" alt="" width="100%" />
@@ -213,6 +220,8 @@
       style="max-width:40%;height:auto;min-width:300px;"
     >
   </div>
+
+  </br>
 
 <p align="center">
   <img src="pics/sep_lightsaber.svg" alt="" width="100%" />
