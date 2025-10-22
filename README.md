@@ -38,7 +38,7 @@
 <div align="center">
   <img src="pics/2.png" alt="My Tech Stack" width="60%" style="border-radius:14px;" />
   <p>&nbsp;</p>
-
+</div>
   <!-- Responsive-ish icon grid using a table (works reliably on GitHub) -->
   <table>
     <!-- Row 1: Frontend -->
@@ -119,7 +119,6 @@
         </a>
       </td>
     </tr>
-
     <!-- Row 3: Databases / DevOps / Tools -->
     <tr>
       <td align="center" style="padding:12px 18px;">
@@ -160,4 +159,4 @@
       </td>
     </tr>
   </table>
-</div>
+
