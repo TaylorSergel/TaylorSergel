@@ -169,3 +169,21 @@
 | Preview | Overview | My Role | Link |
 |---------|----------|---------|------|
 | <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/eef7768f-1888-4c96-b0b8-8c75a2e1df86" /> | A web application that recommends outfits from a user’s wardrobe based on the weather, personal preferences, occasion, and color coordination!| Full‑stack contributions: APIs, scripting, testing (security + all levels), integrations, and frontend.|<a href="https://github.com/COS301-SE-2025/Weather-to-Wear"> <img src="https://img.shields.io/badge/View%20Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" width="180"/></a>|
+
+<!-- CONTACT -->
+<div align="center">
+  <img src="pics/4.png" alt="Contact" width="60%" style="border-radius:14px;" />
+  <p>&nbsp;</p>
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/taylor-sergel-aa267a354/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-38B2AC?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:taylorsergel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/taylorsergel">
+    <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
