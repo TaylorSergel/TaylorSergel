@@ -21,25 +21,29 @@
   <p>&nbsp;</p>
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="250">
-      <img src="pics/cartoon_typing.gif" alt="Cartoon Me" width="240" style="border-radius:12px;" />
-    </td>
-    <td align="left" style="vertical-align: top; padding-left: 20px; line-height: 1.6;">
-      I am a final year BSc Computer Science student with a passion for frontend development and design. I am eager to create systems that not only 
-      enhance user interaction but overall user experience by utilizing the skills that I have learnt along my educational journey. <br><br>
-      My personal interests include reading, hanging out with friends and going to the gym, allowing me to maintain a healthy work-life balance. <br><br>
-    <h2>My Other Skills Include:</h2>
-      - Leadership<br>
-      - Team work<br>
-      - Time managemnet<br>
-      - Problem Solving<br>
-      - Adaptibilty<br>
-      - Egerness to Learn<br>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p style="max-width: 900px; text-align: left; line-height: 1.7;">
+    I am a final year BSc Computer Science student with a passion for frontend development and design. 
+    I am eager to create systems that not only enhance user interaction but overall user experience by 
+    utilizing the skills that I have learnt along my educational journey.
+    <br><br>
+    My personal interests include reading, hanging out with friends and going to the gym, allowing me to 
+    maintain a healthy work-life balance.
+  </p>
+</div>
+
+<!-- Skills heading + list -->
+<h2 align="center">My Other Skills Include:</h2>
+<div align="center">
+  <ul style="list-style: none; padding: 0; margin: 0; max-width: 900px; text-align: left; line-height: 1.7;">
+    <li>– Leadership</li>
+    <li>– Team work</li>
+    <li>– Time management</li>
+    <li>– Problem solving</li>
+    <li>– Adaptability</li>
+    <li>– Eagerness to learn</li>
+  </ul>
+</div>
 
 <p align="center">
   <img src="pics/sep_lightsaber.svg" alt="" width="100%" />
