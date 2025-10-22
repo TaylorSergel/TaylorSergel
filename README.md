@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="pics/separators/sep_lightsaber.svg" alt="" width="100%" />
+  <img src="pics/sep_lightsaber.svg" alt="" width="100%" />
 </p>
 
 <div align="center">
