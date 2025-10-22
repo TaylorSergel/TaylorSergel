@@ -2,7 +2,6 @@
   <img src="pics/banner.gif" alt="Name Banner" style="max-width:80%; height:auto; display:block; margin:0 auto;" />
 </p>
 
-<!-- TYPING EFFECT (SVG) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Frontend-Designer;UI/UX+Engineer" alt="Typing SVG" />
 </p>
@@ -14,6 +13,11 @@
 <!-- ABOUT ME -->
 <div align="center">
   <img src="pics/1.png" alt="About Me" width="60%" style="border-radius:14px;" />
+  <p>&nbsp;</p>
+</div>
+
+<div align="center">
+      <img src="pics/cartoon_typing.gif" alt="Cartoon Me" width="600" style="border-radius:12px;" />
   <p>&nbsp;</p>
 </div>
 
