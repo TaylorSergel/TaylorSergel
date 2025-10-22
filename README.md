@@ -12,12 +12,12 @@
 
 <!-- ABOUT ME -->
 <div align="center">
-  <img src="pics/1.png" alt="About Me" width="60%" style="border-radius:10px;" />
+  <img src="pics/1.png" alt="About Me" width="60%" style="border-radius:8px;" />
   <p>&nbsp;</p>
 </div>
 
 <div align="center">
-      <img src="pics/cartoon_typing.gif" alt="Cartoon Me" width="480" style="border-radius:10px;" />
+      <img src="pics/cartoon_typing.gif" alt="Cartoon Me" width="480" style="border-radius:8px;" />
   <p>&nbsp;</p>
 </div>
 
