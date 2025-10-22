@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-      <img src="pics/cartoon_typing.gif" alt="Cartoon Me" width="600" style="border-radius:12px;" />
+      <img src="pics/cartoon_typing.gif" alt="Cartoon Me" width="480" style="border-radius:12px;" />
   <p>&nbsp;</p>
 </div>
 
@@ -38,10 +38,10 @@
   <ul style="list-style: none; padding: 0; margin: 0; max-width: 900px; text-align: left; line-height: 1.7;">
     Leadership</br>
     Team work</br>
-    <li>– Time management</li>
-    <li>– Problem solving</li>
-    <li>– Adaptability</li>
-    <li>– Eagerness to learn</li>
+    Time management</br>
+    Problem solving</br>
+    Adaptability</br>
+    Eagerness to learn</br>
   </ul>
 </div>
 
