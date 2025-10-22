@@ -195,18 +195,19 @@
   
 <!-- CONTACT -->
 <div align="center">
-  <img src="pics/4.png" alt="Contact" width="60%" style="border-radius:14px;" />
-  <p>&nbsp;</p>
+  <a href="https://www.linkedin.com/in/TaylorSergel" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img alt="LinkedIn"
+         src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7C3AED" />
+  </a>
+  &nbsp;
+  <a href="mailto:taylorsergel@gmail.com" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img alt="Gmail"
+         src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7C3AED" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/TaylorSergel" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img alt="GitHub"
+         src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED" />
+  </a>
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/taylor-sergel-aa267a354/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-38B2AC?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:taylorsergel@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/taylorsergel">
-    <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
