@@ -176,16 +176,6 @@
   <p>&nbsp;</p>
 </div>
 
-<!-- GitHub Stats Section -->
-<p align="center">
-  <!-- top wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=60&section=header" />
-</p>
-
-<div align="center">
-  <!-- Optional static banner under the wave -->
-  <img src="pics/githubstats.png" width="auto" height="auto" style="display:block;margin:0 auto;" alt="GitHub Stats Banner">
-
   <!-- Main Stats and Streak Side by Side -->
   <div style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;">
     <!-- GitHub Readme Stats -->
