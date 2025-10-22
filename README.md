@@ -234,7 +234,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/TaylorSergel" target="_blank" rel="noreferrer" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/taylor-sergel-aa267a354/" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img alt="LinkedIn"
          src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7C3AED" />
   </a>
