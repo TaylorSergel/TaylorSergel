@@ -36,7 +36,7 @@
 
 <!-- TECH STACK -->
 <div align="center">
-  <img src="pics/2.png" alt="My Tech Stack" width="60%" style="border-radius:14px;" />
+  <img src="pics/2.png" alt="My Tech Stack" width="45%" style="border-radius:14px;" />
   <p>&nbsp;</p>
 </div>
   <!-- Responsive-ish icon grid using a table (works reliably on GitHub) -->
@@ -162,7 +162,7 @@
   
 <!-- PROJECTS -->
 <div align="center">
-  <img src="pics/5.png" alt="Recent Projects" width="60%" style="border-radius:14px;" />
+  <img src="pics/5.png" alt="Recent Projects" width="45%" style="border-radius:14px;" />
   <p>&nbsp;</p>
 </div>
 
