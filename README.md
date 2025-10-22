@@ -170,6 +170,60 @@
 |---------|----------|---------|------|
 | <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/eef7768f-1888-4c96-b0b8-8c75a2e1df86" /> | A web application that recommends outfits from a user’s wardrobe based on the weather, personal preferences, occasion, and color coordination!| Full‑stack contributions: APIs, scripting, testing (security + all levels), integrations, and frontend.|<a href="https://github.com/COS301-SE-2025/Weather-to-Wear"> <img src="https://img.shields.io/badge/View%20Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" width="180"/></a>|
 
+<!-- GITHUB STATS -->
+<div align="center">
+  <img src="pics/3.png" alt="My Tech Stack" width="52%" style="border-radius:14px;" />
+  <p>&nbsp;</p>
+</div>
+
+<!-- GitHub Stats Section -->
+<p align="center">
+  <!-- top wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=60&section=header" />
+</p>
+
+<div align="center">
+  <!-- Optional static banner under the wave -->
+  <img src="pics/githubstats.png" width="auto" height="auto" style="display:block;margin:0 auto;" alt="GitHub Stats Banner">
+
+  <!-- Main Stats and Streak Side by Side -->
+  <div style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;">
+    <!-- GitHub Readme Stats -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=TaylorSergel&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=C4B5FD&icon_color=A78BFA&ring=7C3AED"
+      alt="Taylor's GitHub Stats"
+      style="max-width:38%;height:auto;min-width:300px;"
+    >
+    <!-- Streak Stats -->
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=TaylorSergel&hide_border=true&background=0d1117&currStreakLabel=7C3AED&sideLabels=7C3AED&currStreakNum=A78BFA&sideNums=A78BFA&dates=C4B5FD&ring=7C3AED&fire=A78BFA"
+      alt="Taylor's GitHub Streak"
+      style="max-width:40%;height:auto;min-width:300px;"
+    >
+  </div>
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorSergel&layout=compact&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=C4B5FD"
+    alt="Taylor's Top Languages"
+    style="max-width:80%;height:auto;margin:10px 0;"
+  >
+
+  <!-- Contribution Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TaylorSergel&hide_border=true&bg_color=0d1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&area_color=7C3AED"
+    alt="Taylor's Contribution Graph"
+    style="max-width:80%;height:auto;margin:10px 0;"
+  >
+</div>
+
+<p align="center">
+  <!-- bottom wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=60&section=footer" alt="Waving footer capsule" style="max-width:80%;height:auto;">
+  <img src="pics/ConnectWMe.png" width="auto" height="auto" style="display:block;margin:0 auto;" alt="Connect With Me">
+</p>
+
+
 <!-- CONTACT -->
 <div align="center">
   <img src="pics/4.png" alt="Contact" width="60%" style="border-radius:14px;" />
