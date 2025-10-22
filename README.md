@@ -40,7 +40,7 @@
   <p>&nbsp;</p>
 </div>
   <!-- Responsive-ish icon grid using a table (works reliably on GitHub) -->
-  <table>
+  <table align="center" style="margin:0 auto;">
     <!-- Row 1: Frontend -->
     <tr>
       <td align="center" style="padding:12px 18px;">
