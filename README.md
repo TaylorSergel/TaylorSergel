@@ -7,7 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Frontend-Designer;UI/UX+Engineer" alt="Typing SVG" />
 </p>
 
-<hr/>
+<p align="center">
+  <img src="pics/separators/sep_lightsaber.svg" alt="" width="100%" />
+</p>
 
 <div align="center">
   <img src="pics/1.png" alt="About Me" width="60%" style="border-radius:14px;" />
