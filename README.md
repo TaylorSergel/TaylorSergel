@@ -20,14 +20,7 @@
       <img src="pics/cartoon_typing.gif" alt="Cartoon Me" width="240" style="border-radius:12px;" />
     </td>
     <td align="left" style="vertical-align: top; padding-left: 20px; line-height: 1.6;">
-      🎓 Final-year <b>BSc Computer Science</b> student at the <b>University of Pretoria</b><br>
-      💡 Passionate about <b>AI</b>, <b>Full-Stack Development</b>, and <b>UX-Driven Design</b><br>
-      🧠 Skilled in multiple programming languages including <b>Python</b>, <b>Java</b>, and <b>C++</b><br>
-      🧩 Strong foundation in <b>data structures</b>, <b>algorithms</b>, and <b>object-oriented programming</b><br>
-      🧱 Enjoy solving real-world problems through efficient, creative, and well-designed software<br>
-      💻 Advocate for clean, scalable code and user-centered digital experiences<br>
-      🌍 Co-founder of <b>Street Smartz</b> …<br>
-      🪶 Outside of tech, I enjoy <b>drumming</b>, <b>creative arts</b>, <b>music</b>, and <b>hiking</b>
+      I am a final year BSc Computer Science student with a passion for frontend development and design. I am eager to create systems that not only enhance user interaction but overall user experience by utilizing the skills that I have learnt along my educational journey. My personal interests include reading, hanging out with friends and going to the gym, allowing me to maintain a healthy work-life balance.
     </td>
   </tr>
 </table>
