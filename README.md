@@ -195,6 +195,11 @@
   
 <!-- CONTACT -->
 <div align="center">
+  <img src="pics/4.png" alt="Contact" width="50%" style="border-radius:14px;" />
+  <p>&nbsp;</p>
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/TaylorSergel" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img alt="LinkedIn"
          src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7C3AED" />
