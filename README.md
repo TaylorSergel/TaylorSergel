@@ -36,8 +36,8 @@
 <h2 align="center">My Other Skills Include:</h2>
 <div align="center">
   <ul style="list-style: none; padding: 0; margin: 0; max-width: 900px; text-align: left; line-height: 1.7;">
-    <li>– Leadership</li>
-    <li>– Team work</li>
+    Leadership</br>
+    Team work</br>
     <li>– Time management</li>
     <li>– Problem solving</li>
     <li>– Adaptability</li>
