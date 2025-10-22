@@ -14,5 +14,24 @@
 
 ---
 <div align="center">
-  <img src="pics/1.png" alt="About Me" width="25%" style="border-radius: 12px;"/>
+  <img src="pics/cartoon_typing" alt="Cartoon Me" width="30%" style="border-radius: 14px;"/>
   <p>&nbsp;</p>
+
+    <table>
+      <tr>
+        <td align="center" width="250">
+          <img src="assets/me.png" alt="Diya Budhia" width="240" style="border-radius:12px;"/>
+        </td>
+        <td align="left" style="vertical-align: top; padding-left: 20px; line-height: 1.6;">
+          🎓 Final-year <b>BSc Computer Science</b> student at the <b>University of Pretoria</b><br>
+          💡 Passionate about <b>AI</b>, <b>Full-Stack Development</b>, and <b>UX-Driven Design</b><br>
+          🧠 Skilled in multiple programming languages including <b>Python</b>, <b>Java</b>, and <b>C++</b><br>
+          🧩 Strong foundation in <b>data structures</b>, <b>algorithms</b>, and <b>object-oriented programming</b><br>
+          🧱 Enjoy solving real-world problems through efficient, creative, and well-designed software<br>
+          💻 Advocate for clean, scalable code and user-centered digital experiences<br>
+          🌍 Co-founder of <b>Street Smartz</b>, an ongoing, mobile app improving youth safety and mentorship access in South Africa<br>
+          🪶 Outside of tech, I enjoy <b>drumming</b>, <b>creative arts</b>, <b>music</b>, and <b>hiking</b>
+        </td>
+      </tr>
+    </table>
+  </div>
