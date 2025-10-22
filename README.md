@@ -31,7 +31,7 @@
 </div>
 
 <!-- Skills heading + list -->
-<h2 align="center">My Other Skills Include:</h2>
+<h2 align="center">Other Skills Include:</h2>
 <div align="center">
   <ul style="list-style: none; padding: 0; margin: 0; max-width: 900px; text-align: left; line-height: 1.7;">
     Leadership</br>
