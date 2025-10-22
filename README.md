@@ -195,7 +195,7 @@
   
 <!-- CONTACT -->
 <div align="center">
-  <img src="pics/4.png" alt="Contact" width="50%" style="border-radius:14px;" />
+  <img src="pics/4.png" alt="Contact" width="65%" style="border-radius:14px;" />
   <p>&nbsp;</p>
 </div>
 
