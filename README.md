@@ -185,7 +185,7 @@
 
 | Preview | Overview | Link |
 |---|---|---|
-| <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/eef7768f-1888-4c96-b0b8-8c75a2e1df86" /> | A web application that acts as a virtual closet and recommends outfits to a user based on the weather, personal preferences and occasion using clothing items stored in the user's virtual closet. </br> Other Features Include: </br>- Emergency Response Outfit Recommendations </br>- Trip/Event Planner </br>- Virtual Try-On Feature </br>- Social Media Platform </br>- An Outfit Inpiration Page| <a href="https://github.com/COS301-SE-2025/Weather-to-Wear"><img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED&v=1" width="180" /></a> |
+| <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/eef7768f-1888-4c96-b0b8-8c75a2e1df86" /> | A web application that acts as a virtual closet and recommends outfits to a user based on the weather, personal preferences and occasion using clothing items stored in the user's virtual closet. </br></br> Other Features Include: </br>- Emergency Response Outfit Recommendations </br>- Trip/Event Planner </br>- Virtual Try-On Feature </br>- Social Media Platform </br>- An Outfit Inpiration Page| <a href="https://github.com/COS301-SE-2025/Weather-to-Wear"><img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED&v=1" width="180" /></a> |
 
 
 <p align="center">
