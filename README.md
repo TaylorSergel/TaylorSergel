@@ -23,7 +23,7 @@
 
 <div align="center">
   <p style="max-width: 900px; text-align: left; line-height: 1.7;">
-    I am a final year BSc Computer Science student with a passion for frontend development and design. 
+    I am a BSc Computer Science graduate who is currently completing my honours at the University of Pretoria. I have a passion for frontend development and design. 
     I am eager to create systems that not only enhance user interaction but overall user experience by 
     utilizing the skills that I have learnt along my educational journey.
     <br><br>
